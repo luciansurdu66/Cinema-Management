@@ -1,0 +1,34 @@
+{
+  "n": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "n",
+    "titlu": "i",
+    "an_aparitie": 1913,
+    "pret_bilet": 13.0,
+    "in_program": "nu"
+  },
+  "M": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "M",
+    "titlu": "k",
+    "an_aparitie": 2010,
+    "pret_bilet": 55.0,
+    "in_program": "da"
+  },
+  "U": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "U",
+    "titlu": "y",
+    "an_aparitie": 1945,
+    "pret_bilet": 12.0,
+    "in_program": "nu"
+  },
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "1",
+    "an_aparitie": "1",
+    "pret_bilet": 10000.0,
+    "in_program": "da"
+  }
+}

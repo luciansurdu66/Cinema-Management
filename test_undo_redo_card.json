@@ -1,0 +1,22 @@
+{
+  "1": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "1",
+    "nume": "Surdu",
+    "prenume": "Lucian",
+    "cnp": "5020501020477",
+    "data_nasterii": "01.05.2002",
+    "data_inregistrarii": "20.11.2021",
+    "puncte_acumulate": 100
+  },
+  "2": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "2",
+    "nume": "Surdu",
+    "prenume": "David",
+    "cnp": "21487124897",
+    "data_nasterii": "20.02.1997",
+    "data_inregistrarii": "20.11.2021",
+    "puncte_acumulate": 12
+  }
+}

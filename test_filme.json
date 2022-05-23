@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "1",
+    "an_aparitie": 1,
+    "pret_bilet": 1.0,
+    "in_program": "da"
+  }
+}
